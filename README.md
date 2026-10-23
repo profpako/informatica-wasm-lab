@@ -7,7 +7,7 @@ La prima apertura richiede il download dei componenti WASM.
 
 Questa prova non sostituisce la versione locale stabile.
 
-Sorgente riproducibile: https://github.com/profpako/informatica/tree/6eaf31f/app/c++_visualizer/pages-lab
+Sorgente riproducibile: https://github.com/profpako/informatica/tree/4b23642/app/c++_visualizer/pages-lab
 
 Versione locale recuperabile: https://github.com/profpako/informatica/releases/tag/locale-stabile-2026-10-23
 
